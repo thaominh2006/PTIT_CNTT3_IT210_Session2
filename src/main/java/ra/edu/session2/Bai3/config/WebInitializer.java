@@ -1,12 +1,10 @@
-//package ra.edu.session2.config;
-//
+//package ra.edu.session2.Bai3.config;
 //import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 //
-//public class WebInit extends AbstractAnnotationConfigDispatcherServletInitializer {
-//
+//public class WebInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 //    @Override
 //    protected Class<?>[] getRootConfigClasses() {
-//        return new Class[]{WebConfig.class};
+//        return null;
 //    }
 //
 //    @Override
